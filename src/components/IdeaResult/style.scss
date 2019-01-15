@@ -1,0 +1,12 @@
+.idea {
+  display: block;
+  padding: 8px;
+  background-color: #90caf9;
+  cursor: pointer;
+  margin: 8px auto;
+  border-radius: 3px;
+
+  &:hover {
+    background-color: #64b5f6;
+  }
+}

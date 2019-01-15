@@ -1,0 +1,19 @@
+.idea-results {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+
+  .group {
+    width: 300px;
+    margin: 10px;
+    background-color: #1976d2;
+    border-radius: 3px;
+    box-shadow: 0 0 4px -2px;
+    padding: 10px;
+
+    h3 {
+      font-weight: bolder;
+      color: whitesmoke;
+    }
+  }
+}

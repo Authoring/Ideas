@@ -1,0 +1,24 @@
+{
+  "name": "ideas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Authoring/Ideas.git",
+  "author": "Chase Willden <chase.willden@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@types/react": "^16.7.18",
+    "mobx": "^5.8.0",
+    "mobx-react": "^5.4.3",
+    "node-sass": "^4.11.0",
+    "parcel-bundler": "^1.11.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "typescript": "^3.2.2"
+  },
+  "devDependencies": {
+    "sass": "^1.16.0"
+  }
+}
